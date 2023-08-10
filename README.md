@@ -2,9 +2,8 @@
 <h3 align="center">I am a web & mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goumey&label=Profile%20views&color=0e75b6&style=flat" alt="goumey" /> </p>
-##Trophy
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=goumey&theme=matrix" alt="goumey" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=goumey&theme=onedark)](https://github.com/goumey/github-profile-trophy)
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

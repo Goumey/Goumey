@@ -16,7 +16,7 @@ I am a passionate web, mobile developer, and computer coach, driven by a fervent
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.buymeacoffee.com/goumey](https://instagram.com/goumey_08?igshid=MmIzYWVlNDQ5Yg==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goumey " height="30" width="40" /></a>
+ <a href="https://instagram.com/goumey_08?igshid=MmIzYWVlNDQ5Yg==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goumey " height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/mahamadou-moussa-goumey-658048219" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahamadou-moussa-goumey-658048219" height="30" width="40" /></a>
 </p>

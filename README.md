@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moussa Goumey</h1>
-<h3 align="center">
+<h5 align="center">
 I am a passionate web, mobile developer, and computer coach, driven by a fervent love for coding. My journey in the realm of technology is fueled by an insatiable curiosity and dedication to crafting elegant solutions through lines of code. With each project, I immerse myself in the intricacies of programming languages, leveraging them to create seamless digital experiences. As a coach, I not only share my expertise but also instill the same passion for coding in others, empowering them to unlock their full potential in the vast world of technology.  
 
-</h3>
+</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goumey&label=Profile%20views&color=0e75b6&style=flat" alt="goumey" /> </p>
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=goumey&theme=matrix" alt="goumey" /></a> </p>

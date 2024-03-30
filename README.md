@@ -11,11 +11,12 @@ I am a passionate web, mobile developer, and computer coach, driven by a fervent
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Support me:</h3>
 <p align="left">
-  <a href="https://www.buymeacoffee.com/goumey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goumey coffy" height="30" width="40" /></a>
+  <a href="https://www.buymeacoffee.com/goumey" target="_blank"><img align="center" src="https://camo.githubusercontent.com/cace41b0afc90c68d0207e2bd809ee121f9ff4f72ac032e8ced972aee7adbb23/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67"  /></a>
+ 
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/goumey_08?igshid=MmIzYWVlNDQ5Yg==" target="_blank"><img align="center" src="https://camo.githubusercontent.com/cace41b0afc90c68d0207e2bd809ee121f9ff4f72ac032e8ced972aee7adbb23/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="30" width="40" /></a>
+ <a href="https://www.buymeacoffee.com/goumey](https://instagram.com/goumey_08?igshid=MmIzYWVlNDQ5Yg==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goumey " height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/mahamadou-moussa-goumey-658048219" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahamadou-moussa-goumey-658048219" height="30" width="40" /></a>
 </p>

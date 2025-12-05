@@ -40,5 +40,7 @@ I am a passionate web and mobile developer, and computer coach, driven by a ferv
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goumey&show_icons=true&locale=en&layout=compact" alt="goumey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goumey&show_icons=true&locale=en" alt="goumey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goumey&show_icons=true&locale=en&layout=compact" alt="goumey" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goumey&show_icons=true&locale=en" alt="goumey" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=goumey&" alt="goumey" /></p>
